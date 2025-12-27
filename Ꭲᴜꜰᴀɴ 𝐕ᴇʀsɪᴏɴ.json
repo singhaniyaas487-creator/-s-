@@ -17,17 +17,17 @@
   "device_section": [
     {
       "device_id": "1234567890abcdef",
-      "password": "Tufan@3x",
+      "password": "Tufan_123",
       "expire_date": "2026-12-31"
     },
     {
       "device_id": "abcdef9876543210",
-      "password": "Tufan@3x",
+      "password": "Tufan_3x",
       "expire_date": "2026-12-15"
     },
     {
       "device_id": "offline-device",
-      "password": "Tufan@3x",
+      "password": "Tufan_3xx",
       "expire_date": "2026-11-11"
     }
   ]
