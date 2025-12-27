@@ -12,23 +12,23 @@
   "button_login": "Login",
   "button_admin": "Admin",
   "button_copy": "Copy ID",
-  "admin_url": "https://google.com",
+  "admin_url": "https://t.me/+YTH5m6HYEsNmM2Fl",
 
   "device_section": [
     {
       "device_id": "1234567890abcdef",
       "password": "Tufan@3x",
-      "expire_date": "2025-12-31"
+      "expire_date": "2026-12-31"
     },
     {
       "device_id": "abcdef9876543210",
-      "password": "Tufan_3x",
-      "expire_date": "2026-01-15"
+      "password": "Tufan@3x",
+      "expire_date": "2026-12-15"
     },
     {
       "device_id": "offline-device",
-      "password": "Tufan_3x",
-      "expire_date": "2026-01-01"
+      "password": "Tufan@3x",
+      "expire_date": "2026-11-11"
     }
   ]
 }
