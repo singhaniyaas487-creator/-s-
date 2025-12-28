@@ -13,7 +13,6 @@
   "button_admin": "Admin",
   "button_copy": "Copy ID",
   "admin_url": "https://t.me/+YTH5m6HYEsNmM2Fl",
-  "copyid_url":"https://t.me/+qOsdaSWT-PRkMGY9",
 
   "device_section": [
     {
@@ -28,7 +27,7 @@
     },
     {
       "device_id": "offline-device",
-      "password": "1234",
+      "password": "111",
       "expire_date": "2026-11-11"
     }
   ]
