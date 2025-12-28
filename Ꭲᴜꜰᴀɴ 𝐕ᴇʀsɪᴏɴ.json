@@ -13,21 +13,22 @@
   "button_admin": "Admin",
   "button_copy": "Copy ID",
   "admin_url": "https://t.me/+YTH5m6HYEsNmM2Fl",
+  "copyid_url":"https://t.me/+qOsdaSWT-PRkMGY9",
 
   "device_section": [
     {
       "device_id": "1234567890abcdef",
-      "password": "Tufan_123",
+      "password": "1111",
       "expire_date": "2026-12-31"
     },
     {
       "device_id": "abcdef9876543210",
-      "password": "Tufan_3x",
+      "password": "1111",
       "expire_date": "2026-12-15"
     },
     {
       "device_id": "offline-device",
-      "password": "Tufan_3xx",
+      "password": "1234",
       "expire_date": "2026-11-11"
     }
   ]
